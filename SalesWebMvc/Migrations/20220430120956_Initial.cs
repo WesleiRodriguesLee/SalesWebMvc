@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SalesWebMvc.Migrations
 {
